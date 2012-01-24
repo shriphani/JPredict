@@ -1,0 +1,13 @@
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\MainWindow.baml
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\App.g.cs
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\JPredictTest_MarkupCompile.cache
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\JPredictTest.g.resources
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\JPredictTest.Properties.Resources.resources
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shriphani\Documents\JPredict\JPredictTest\bin\Debug\JPredictTest.exe
+C:\Users\shriphani\Documents\JPredict\JPredictTest\bin\Debug\JPredictTest.pdb
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\JPredictTest.exe
+C:\Users\shriphani\Documents\JPredict\JPredictTest\obj\x86\Debug\JPredictTest.pdb
